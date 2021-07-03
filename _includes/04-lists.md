@@ -1,3 +1,3 @@
-Emoji
-Ordered list 
-Unordered Lists
+- Emoji 
+- Ordered list 
+- Unordered Lists
